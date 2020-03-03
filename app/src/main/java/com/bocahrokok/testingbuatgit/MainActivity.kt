@@ -25,5 +25,6 @@ class MainActivity : AppCompatActivity() {
     private fun madeByFathur(){
         //dibuat oleh fathur
     }
+    ///BABABABABABA
 
 }
